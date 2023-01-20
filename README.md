@@ -10,4 +10,6 @@ diabeetikko itse tietää verensokerien korjaukseen tarvittavan hiilihydraattim�
 hoitotaho on ohjeistanut insuliiniannostukset. 
 Ohjelma on suuntaa antava, eikä ole tarkoitettu hoidolliseen tarkoitukseen!
 Oletuksena harjoitustyössä on, että diabeetikon hoitomuoto on monipistoshoito.
+<br />
+2022.
 
